@@ -2,7 +2,9 @@
 
 > Maintaining a list of big data developers
 
-## Fall 2020
+## Fall 2020  
+
+Assistant: [Sowmya Thogiti](https://github.com/sowmyathogiti/BIO-DATA)
 
 Group A (10)
 
